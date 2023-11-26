@@ -2,6 +2,8 @@
 
 This repository contains JSON data representing GS1 barcode prefixes along with their descriptions. The data is sourced from [GS1](https://www.gs1.org/standards/id-keys/company-prefix), the global standards organization.
 
+![Banner](./GIT%20-%20Banner.jpg)
+
 ## Usage
 
 Feel free to use this JSON dataset for various applications, such as barcode validation, data lookup, or any other project that requires GS1 barcode prefix information.
