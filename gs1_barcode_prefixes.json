@@ -1,0 +1,558 @@
+[
+  {
+    "G1_prefix": "020-029",
+    "barcode_name": "Used to issue Limited Circulation Numbers within a geographical area (MO defined)"
+  },
+  {
+    "G1_prefix": "030-039",
+    "barcode_name": "OUR GS1"
+  },
+  {
+    "G1_prefix": "040-049",
+    "barcode_name": "Used to issue GS1 Restricted Circulation Numbers within the company"
+  },
+  {
+    "G1_prefix": "050-059",
+    "barcode_name": "GS1 US reserved for future use"
+  },
+  {
+    "G1_prefix": "060-139",
+    "barcode_name": "OUR GS1"
+  },
+  {
+    "G1_prefix": "200-299",
+    "barcode_name": "Used to issue GS1 Restricted Circulation Numbers within a geographical area (MO defined)"
+  },
+  {
+    "G1_prefix": "300-379",
+    "barcode_name": "GS1 France"
+  },
+  {
+    "G1_prefix": "380",
+    "barcode_name": "GS1 Bulgaria"
+  },
+  {
+    "G1_prefix": "383",
+    "barcode_name": "GS1 Slovenia"
+  },
+  {
+    "G1_prefix": "385",
+    "barcode_name": "GS1 Croatia"
+  },
+  {
+    "G1_prefix": "387",
+    "barcode_name": "GS1 BIH (Bosnia-Herzegovina)"
+  },
+  {
+    "G1_prefix": "389",
+    "barcode_name": "GS1 Montenegro"
+  },
+  {
+    "G1_prefix": "400-440",
+    "barcode_name": "GS1 Germany"
+  },
+  {
+    "G1_prefix": "450-459_490-499",
+    "barcode_name": "GS1 Japan"
+  },
+  {
+    "G1_prefix": "460-469",
+    "barcode_name": "GS1 Russia"
+  },
+  {
+    "G1_prefix": "470",
+    "barcode_name": "GS1 Kyrgyz Republic"
+  },
+  {
+    "G1_prefix": "471",
+    "barcode_name": "GS1 Chinese Taipei"
+  },
+  {
+    "G1_prefix": "474",
+    "barcode_name": "GS1 Estonia"
+  },
+  {
+    "G1_prefix": "475",
+    "barcode_name": "GS1 Latvia"
+  },
+  {
+    "G1_prefix": "476",
+    "barcode_name": "GS1 Azerbaijan"
+  },
+  {
+    "G1_prefix": "477",
+    "barcode_name": "GS1 Lithuania"
+  },
+  {
+    "G1_prefix": "478",
+    "barcode_name": "GS1 Uzbekistan"
+  },
+  {
+    "G1_prefix": "479",
+    "barcode_name": "GS1 Sri Lanka"
+  },
+  {
+    "G1_prefix": "480",
+    "barcode_name": "GS1 Philippines"
+  },
+  {
+    "G1_prefix": "481",
+    "barcode_name": "GS1 Belarus"
+  },
+  {
+    "G1_prefix": "482",
+    "barcode_name": "GS1 Ukraine"
+  },
+  {
+    "G1_prefix": "483",
+    "barcode_name": "GS1 Turkmenistan"
+  },
+  {
+    "G1_prefix": "484",
+    "barcode_name": "GS1 Moldova"
+  },
+  {
+    "G1_prefix": "485",
+    "barcode_name": "GS1 Armenia"
+  },
+  {
+    "G1_prefix": "486",
+    "barcode_name": "GS1 Georgia"
+  },
+  {
+    "G1_prefix": "487",
+    "barcode_name": "GS1 Kazakhstan"
+  },
+  {
+    "G1_prefix": "488",
+    "barcode_name": "GS1 Tajikistan"
+  },
+  {
+    "G1_prefix": "489",
+    "barcode_name": "GS1 Hong Kong, China"
+  },
+  {
+    "G1_prefix": "490-499_450-459",
+    "barcode_name": "GS1 Japan"
+  },
+  {
+    "G1_prefix": "500-509",
+    "barcode_name": "GS1 UK"
+  },
+  {
+    "G1_prefix": "520-521",
+    "barcode_name": "GS1 Greek Association"
+  },
+  {
+    "G1_prefix": "528",
+    "barcode_name": "GS1 Lebanon"
+  },
+  {
+    "G1_prefix": "529",
+    "barcode_name": "GS1 Cyprus"
+  },
+  {
+    "G1_prefix": "530",
+    "barcode_name": "GS1 Albania"
+  },
+  {
+    "G1_prefix": "531",
+    "barcode_name": "GS1 Macedonia"
+  },
+  {
+    "G1_prefix": "535",
+    "barcode_name": "GS1 Malta"
+  },
+  {
+    "G1_prefix": "539",
+    "barcode_name": "GS1 Ireland"
+  },
+  {
+    "G1_prefix": "540-549",
+    "barcode_name": "GS1 Belgium & Luxembourg"
+  },
+  {
+    "G1_prefix": "560",
+    "barcode_name": "GS1 Portugal"
+  },
+  {
+    "G1_prefix": "569",
+    "barcode_name": "GS1 Iceland"
+  },
+  {
+    "G1_prefix": "570-579",
+    "barcode_name": "GS1 Denmark"
+  },
+  {
+    "G1_prefix": "590",
+    "barcode_name": "GS1 Poland"
+  },
+  {
+    "G1_prefix": "594",
+    "barcode_name": "GS1 Romania"
+  },
+  {
+    "G1_prefix": "599",
+    "barcode_name": "GS1 Hungary"
+  },
+  {
+    "G1_prefix": "600-601",
+    "barcode_name": "GS1 South Africa"
+  },
+  {
+    "G1_prefix": "603",
+    "barcode_name": "GS1 Ghana"
+  },
+  {
+    "G1_prefix": "604",
+    "barcode_name": "GS1 Senegal"
+  },
+  {
+    "G1_prefix": "605",
+    "barcode_name": "Managed by GS1 Global Office for future MOs"
+  },
+  {
+    "G1_prefix": "606",
+    "barcode_name": "Managed by GS1 Global Office for future MOs"
+  },
+  {
+    "G1_prefix": "607",
+    "barcode_name": "GS1 Oman"
+  },
+  {
+    "G1_prefix": "608",
+    "barcode_name": "GS1 Bahrain"
+  },
+  {
+    "G1_prefix": "609",
+    "barcode_name": "GS1 Mauritius"
+  },
+  {
+    "G1_prefix": "610",
+    "barcode_name": "Managed by GS1 Global Office for future MOs"
+  },
+  {
+    "G1_prefix": "611",
+    "barcode_name": "GS1 Morocco"
+  },
+  {
+    "G1_prefix": "613",
+    "barcode_name": "GS1 Algeria"
+  },
+  {
+    "G1_prefix": "614",
+    "barcode_name": "Managed by GS1 Global Office for future MOs"
+  },
+  {
+    "G1_prefix": "615",
+    "barcode_name": "GS1 Nigeria"
+  },
+  {
+    "G1_prefix": "616",
+    "barcode_name": "GS1 Kenya"
+  },
+  {
+    "G1_prefix": "617",
+    "barcode_name": "GS1 Cameroon"
+  },
+  {
+    "G1_prefix": "618",
+    "barcode_name": "GS1 Ivory Coast"
+  },
+  {
+    "G1_prefix": "619",
+    "barcode_name": "GS1 Tunisia"
+  },
+  {
+    "G1_prefix": "620",
+    "barcode_name": "GS1 Tanzania"
+  },
+  {
+    "G1_prefix": "621",
+    "barcode_name": "GS1 Syria"
+  },
+  {
+    "G1_prefix": "622",
+    "barcode_name": "GS1 Egypt"
+  },
+  {
+    "G1_prefix": "623",
+    "barcode_name": "Managed by GS1 Global Office for future MO"
+  },
+  {
+    "G1_prefix": "624",
+    "barcode_name": "GS1 Libya"
+  },
+  {
+    "G1_prefix": "625",
+    "barcode_name": "GS1 Jordan"
+  },
+  {
+    "G1_prefix": "626",
+    "barcode_name": "GS1 Iran"
+  },
+  {
+    "G1_prefix": "627",
+    "barcode_name": "GS1 Kuwait"
+  },
+  {
+    "G1_prefix": "628",
+    "barcode_name": "GS1 Saudi Arabia"
+  },
+  {
+    "G1_prefix": "629",
+    "barcode_name": "GS1 Emirates"
+  },
+  {
+    "G1_prefix": "630",
+    "barcode_name": "GS1 Qatar"
+  },
+  {
+    "G1_prefix": "631",
+    "barcode_name": "Namibia"
+  },
+  {
+    "G1_prefix": "640-649",
+    "barcode_name": "GS1 Finland"
+  },
+  {
+    "G1_prefix": "680-681_690-699",
+    "barcode_name": "GS1 China"
+  },
+  {
+    "G1_prefix": "700-709",
+    "barcode_name": "GS1 Norway"
+  },
+  {
+    "G1_prefix": "729",
+    "barcode_name": "GS1 Israel"
+  },
+  {
+    "G1_prefix": "730-739",
+    "barcode_name": "GS1 Sweden"
+  },
+  {
+    "G1_prefix": "740",
+    "barcode_name": "GS1 Guatemala"
+  },
+  {
+    "G1_prefix": "741",
+    "barcode_name": "GS1 El Salvador"
+  },
+  {
+    "G1_prefix": "742",
+    "barcode_name": "GS1 Honduras"
+  },
+  {
+    "G1_prefix": "743",
+    "barcode_name": "GS1 Nicaragua"
+  },
+  {
+    "G1_prefix": "744",
+    "barcode_name": "GS1 Costa Rica"
+  },
+  {
+    "G1_prefix": "745",
+    "barcode_name": "GS1 Panama"
+  },
+  {
+    "G1_prefix": "746",
+    "barcode_name": "GS1 Republica Dominicana"
+  },
+  {
+    "G1_prefix": "750",
+    "barcode_name": "GS1 Mexico"
+  },
+  {
+    "G1_prefix": "754-755",
+    "barcode_name": "GS1 Canada"
+  },
+  {
+    "G1_prefix": "758",
+    "barcode_name": "Managed by GS1 Global Office for future MO"
+  },
+  {
+    "G1_prefix": "759",
+    "barcode_name": "GS1 Venezuela"
+  },
+  {
+    "G1_prefix": "760-769",
+    "barcode_name": "GS1 Schweiz, Suisse, Svizzera"
+  },
+  {
+    "G1_prefix": "770-771",
+    "barcode_name": "GS1 Colombia"
+  },
+  {
+    "G1_prefix": "773",
+    "barcode_name": "GS1 Uruguay"
+  },
+  {
+    "G1_prefix": "775",
+    "barcode_name": "GS1 Peru"
+  },
+  {
+    "G1_prefix": "777",
+    "barcode_name": "Bolivia"
+  },
+  {
+    "G1_prefix": "778-779",
+    "barcode_name": "Argentina"
+  },
+  {
+    "G1_prefix": "780",
+    "barcode_name": "GS1 Chile"
+  },
+  {
+    "G1_prefix": "784",
+    "barcode_name": "Paraguay"
+  },
+  {
+    "G1_prefix": "786",
+    "barcode_name": "Ecuador"
+  },
+  {
+    "G1_prefix": "789-790",
+    "barcode_name": "Brazil"
+  },
+  {
+    "G1_prefix": "789-790",
+    "barcode_name": "Brazil"
+  },
+  {
+    "G1_prefix": "800-839",
+    "barcode_name": "Italy"
+  },
+  {
+    "G1_prefix": "840-849",
+    "barcode_name": "Spain"
+  },
+  {
+    "G1_prefix": "850",
+    "barcode_name": "GS1 Cuba"
+  },
+  {
+    "G1_prefix": "858",
+    "barcode_name": "Slovakia"
+  },
+  {
+    "G1_prefix": "859",
+    "barcode_name": "GS1 Czech"
+  },
+  {
+    "G1_prefix": "860",
+    "barcode_name": "GS1 Serbia"
+  },
+  {
+    "G1_prefix": "865",
+    "barcode_name": "Mongolia"
+  },
+  {
+    "G1_prefix": "867",
+    "barcode_name": "North Korea"
+  },
+  {
+    "G1_prefix": "868-869",
+    "barcode_name": "Türkiye"
+  },
+  {
+    "G1_prefix": "870-879",
+    "barcode_name": "Netherlands"
+  },
+  {
+    "G1_prefix": "880-881",
+    "barcode_name": "South Korea"
+  },
+  {
+    "G1_prefix": "883",
+    "barcode_name": "Myanmar"
+  },
+  {
+    "G1_prefix": "884",
+    "barcode_name": "Cambodia"
+  },
+  {
+    "G1_prefix": "885",
+    "barcode_name": "Thailand"
+  },
+  {
+    "G1_prefix": "888",
+    "barcode_name": "Singapore"
+  },
+  {
+    "G1_prefix": "890",
+    "barcode_name": "GS1 India"
+  },
+  {
+    "G1_prefix": "893",
+    "barcode_name": "Vietnam"
+  },
+  {
+    "G1_prefix": "894",
+    "barcode_name": "Managed by GS1 Global Office for future MO"
+  },
+  {
+    "G1_prefix": "896",
+    "barcode_name": "Pakistan"
+  },
+  {
+    "G1_prefix": "899",
+    "barcode_name": "Indonesia"
+  },
+  {
+    "G1_prefix": "900-919",
+    "barcode_name": "Austria"
+  },
+  {
+    "G1_prefix": "930-939",
+    "barcode_name": "Australia"
+  },
+  {
+    "G1_prefix": "940-949",
+    "barcode_name": "New Zealand"
+  },
+  {
+    "G1_prefix": "950",
+    "barcode_name": "Global Office"
+  },
+  {
+    "G1_prefix": "951",
+    "barcode_name": "Global Office - General Manager Number, see Note 2"
+  },
+  {
+    "G1_prefix": "952",
+    "barcode_name": "Used for demonstrations and examples of the GS1 system"
+  },
+  {
+    "G1_prefix": "955",
+    "barcode_name": "Malaysia"
+  },
+  {
+    "G1_prefix": "958",
+    "barcode_name": "Macau, China"
+  },
+  {
+    "G1_prefix": "960-969",
+    "barcode_name": "Office - GTIN-8, see note 3"
+  },
+  {
+    "G1_prefix": "977",
+    "barcode_name": "publications (ISSN)"
+  },
+  {
+    "G1_prefix": "978-979",
+    "barcode_name": "(ISBN)"
+  },
+  {
+    "G1_prefix": "980",
+    "barcode_name": "receipts"
+  },
+  {
+    "G1_prefix": "981-983",
+    "barcode_name": "GS1 coupon identification for common currency areas"
+  },
+  {
+    "G1_prefix": "99",
+    "barcode_name": "coupon identification"
+  }
+]
