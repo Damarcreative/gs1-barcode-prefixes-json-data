@@ -15,3 +15,5 @@ The JSON data in this repository is sourced from [GS1](https://www.gs1.org/stand
 If you find any discrepancies or have improvements to suggest, please open an issue or submit a pull request. Contributions are welcome!
 
 ## License
+
+This data is provided under the [MIT License](LICENSE).
